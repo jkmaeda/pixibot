@@ -1,0 +1,24 @@
+{
+    "name": "Pixi",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "dae30230-0fe1-11ea-ad5d-6307c72276e9",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "abs",
+            "id": "62",
+            "resourceGroup": "IDP-Px-Lx",
+            "subscriptionId": "1ce97442-daf7-43a5-8389-067876064fc0"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\jacques.maeda\\OneDrive - IDP Education Ltd\\Px Bot\\PiXi-bot\\Pixi.bot",
+    "overrides": null
+}
