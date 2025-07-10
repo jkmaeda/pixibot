@@ -33,4 +33,4 @@ jobs:
         app-name: 'px-pixi-bot-pilot-bot'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_9bb575a512df466785f73e3eea1c9024 }}
-        package: .
+        package: idp-px-lx-bot-src
